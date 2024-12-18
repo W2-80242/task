@@ -1,0 +1,29 @@
+/* src/components/Details.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh; /* Ensure it centers vertically on the page */
+  }
+  
+  .card {
+    border-radius: 10px; /* Smooth edges */
+    overflow: hidden;
+  }
+  
+  .card-body {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  
+  img {
+    border: 2px solid #ddd;
+    padding: 5px;
+  }
+  
