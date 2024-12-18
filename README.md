@@ -1,7 +1,7 @@
 Running the Project Locally:
-  Install Dependencies:npm install
-  Set Up Environment Variables: Create .env file
-  Run the Backend : node server.js
+  Install Dependencies:npm install,
+  Set Up Environment Variables: Create .env file,
+  Run the Backend : node server.js,
   Run the Frontend : npm start
 
 API Base URL: http://localhost:4000
